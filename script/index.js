@@ -18,7 +18,7 @@ inputBtn.addEventListener("click", function () {
   render(myLeads);
 });
 
-delBtn.addEventListener("dblclick", function () {
+delBtn.addEventListener("click", function () {
   clear(myLeads);
 });
 
